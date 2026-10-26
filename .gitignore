@@ -1,0 +1,5 @@
+.DS_Store
+mcp/vscode-cloud-mcp/out
+mcp/vscode-cloud-mcp/node_modules
+mcp/vscode-cloud-mcp/*.vsix
+mcp/vscode-cloud-mcp/*.vsix.zip
